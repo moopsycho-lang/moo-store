@@ -1,0 +1,7 @@
+{
+  "name": "MOO E-Commerce & Admin",
+  "description": "Full-stack modern e-commerce storefront and admin dashboard with catalog, persistent cart, Stripe & COD checkout, order management, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
